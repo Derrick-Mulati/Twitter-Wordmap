@@ -2,4 +2,4 @@
 
 
 
-Creating a basic twitter wordmap just for fun and learning
+A basic twitter wordmap just for fun and learning
